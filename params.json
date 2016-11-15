@@ -1,6 +1,6 @@
 {
   "name": "redNAND",
   "tagline": "Custom firmware for your Wii U",
-  "body": "![](https://blog.adafruit.com/wp-content/uploads/2014/01/wii-u-Hack-me.jpg)\r\n### redNAND guide\r\nComplete Wii U redNAND guide, from stock to redNAND.\r\n\r\n### What's redNAND?\r\nredNAND stands for redirected NAND, the usual NAND would be loaded from the Wii U's internal chip, but after installing this you can have it load from your sd card. \r\n\r\n### What can I do with redNAND?\r\nHaving a redNAND gives you the ability to install custom apps, system config tool, and a little bit more ;).\r\n",
+  "body": "### redNAND guide\r\nComplete Wii U redNAND guide, from stock to redNAND.\r\n\r\n### What's redNAND?\r\nredNAND stands for redirected NAND, the usual NAND would be loaded from the Wii U's internal chip, but after installing this you can have it load from your sd card. \r\n\r\n### What can I do with redNAND?\r\nHaving a redNAND gives you the ability to install custom apps, system config tool, and a little bit more ;).\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
